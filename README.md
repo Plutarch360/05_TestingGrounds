@@ -12,3 +12,4 @@ Please feel free to give me any comments or feedback.
 1. TG04 - Marketing and Markdown (Lecture 197)
 1. TG05 - Use git clean to revert project (Lecture 198)
 1. TG06 - First Person Character Overview (Lecture 199)
+1. TG07 - The Third Person Character (Lecture 200)
