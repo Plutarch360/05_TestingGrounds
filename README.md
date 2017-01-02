@@ -15,3 +15,4 @@ Please feel free to give me any comments or feedback.
 1. TG07 - The Third Person Character (Lecture 200)
 1. TG08 - Introducing AI Behaviour Trees (Lecture 201)
 1. TG09 - Introducing AI Blackboard Data (Lecture 202)
+1. TG10 - Target Points and Patrol Routes (Lecture 203)
